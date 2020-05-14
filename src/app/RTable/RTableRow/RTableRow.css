@@ -1,0 +1,26 @@
+:host {
+    display: table-row;
+}
+
+.rowSel {
+    background: #cce3ef !important;
+}
+
+td {
+    height: 50px;
+    padding-left: 20px;
+    padding-right: 10px;
+    vertical-align: middle;
+    font-size: 14px;
+    text-align: left;
+    font-size: 14px;
+    font-family: Tahoma;
+}
+
+.amount{
+    text-align: right;
+}
+
+.bool{
+    text-align: center;
+}
